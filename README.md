@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Villanueva Ch.</h1>
+<h1 align="center">Hola 👋, soy Miguel Villanueva Ch.</h1>
 <h3 align="center">Tecnico en computación</h3>
 
 - 🌱 I’m currently learning **html y css**
